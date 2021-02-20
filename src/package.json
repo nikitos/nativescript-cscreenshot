@@ -8,6 +8,12 @@
 		"type": "git",
 		"url": "https://github.com/enduco/nativescript-cscreenshot.git"
 	},
+	nativescript": {
+		"platforms": {
+			"android": "6.0.0",
+			"ios": "6.0.1"
+		}
+	},
 	"scripts": {
 		"tsc": "npm i && tsc --watch && ts-patch install",
 		"build": "npm run tsc && npm run build.native",
