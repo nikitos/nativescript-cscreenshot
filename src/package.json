@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/enduco/nativescript-cscreenshot.git"
 	},
-	nativescript": {
+	"nativescript": {
 		"platforms": {
 			"android": "6.0.0",
 			"ios": "6.0.1"
